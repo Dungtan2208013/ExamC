@@ -1,0 +1,15 @@
+E:\SEM2\C#\Thi\GeometryExample\Measurement\bin\Debug\net6.0\Animal.exe
+E:\SEM2\C#\Thi\GeometryExample\Measurement\bin\Debug\net6.0\Animal.deps.json
+E:\SEM2\C#\Thi\GeometryExample\Measurement\bin\Debug\net6.0\Animal.runtimeconfig.json
+E:\SEM2\C#\Thi\GeometryExample\Measurement\bin\Debug\net6.0\Animal.dll
+E:\SEM2\C#\Thi\GeometryExample\Measurement\bin\Debug\net6.0\Animal.pdb
+E:\SEM2\C#\Thi\GeometryExample\Measurement\obj\Debug\net6.0\Animal.csproj.AssemblyReference.cache
+E:\SEM2\C#\Thi\GeometryExample\Measurement\obj\Debug\net6.0\Animal.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEM2\C#\Thi\GeometryExample\Measurement\obj\Debug\net6.0\Animal.AssemblyInfoInputs.cache
+E:\SEM2\C#\Thi\GeometryExample\Measurement\obj\Debug\net6.0\Animal.AssemblyInfo.cs
+E:\SEM2\C#\Thi\GeometryExample\Measurement\obj\Debug\net6.0\Animal.csproj.CoreCompileInputs.cache
+E:\SEM2\C#\Thi\GeometryExample\Measurement\obj\Debug\net6.0\Animal.dll
+E:\SEM2\C#\Thi\GeometryExample\Measurement\obj\Debug\net6.0\refint\Animal.dll
+E:\SEM2\C#\Thi\GeometryExample\Measurement\obj\Debug\net6.0\Animal.pdb
+E:\SEM2\C#\Thi\GeometryExample\Measurement\obj\Debug\net6.0\Animal.genruntimeconfig.cache
+E:\SEM2\C#\Thi\GeometryExample\Measurement\obj\Debug\net6.0\ref\Animal.dll
